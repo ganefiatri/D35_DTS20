@@ -73,7 +73,7 @@ background-color: #90ee90;
 
 /*middle code 2*/
 .middle-wrapper {
-  padding-bottom: 80px;
+  padding-bottom: 310px;
   padding-left: 5%;
   padding-right: 5%;
   background-color: #f7f7f7;
@@ -99,8 +99,30 @@ background-color: #90ee90;
   position: relative;
 }
 
-/*middle code3*/
+.profile-icon p {
+  position: absolute;
+  top: 44%;
+  width: 100%;
+  color: white;
+}
 
+.text-contents {
+  width: 80%;
+  display: inline-block;
+  margin-top: 15px;
+  font-size: 15px;
+  color: #b3aeb5;
+}
+
+
+/*middle code3*/
+.bottom-wrapper{
+	padding-bottom: 80px;
+	text-align: center;
+}
 
 
 /*bottom code*/
+footer{
+	background-color: #add8e6;
+}
