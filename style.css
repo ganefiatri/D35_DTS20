@@ -25,6 +25,9 @@ header{
 	height: 75px;
 	width: 100%;
 	background-color: #add8e6;
+	position: fixed;
+	top: 0;
+	z-index: 10;
 }
 
 .container {
